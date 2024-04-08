@@ -16,7 +16,7 @@ public class MinimumElementFinder {
         
         int min = array[0]; // Initialize min to the first element
         
-        // Loop through the array to find the minimum element
+        // Loop through the array to find the minimum element 2
         for (int i = 1; i < array.length; i++) {
             if (array[i] < min) {
                 min = array[i];
